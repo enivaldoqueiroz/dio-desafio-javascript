@@ -1,4 +1,4 @@
-# dio-desafio-javascrit
+# dio-desafio-javascript
 Resolvendo desafios em JavaScript
 
 ## Frota de taxi
